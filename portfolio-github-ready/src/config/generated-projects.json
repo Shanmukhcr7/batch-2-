@@ -1,0 +1,634 @@
+{
+  "lastGenerated": "2026-10-19T14:50:55.231Z",
+  "totalProjects": 23,
+  "categories": [
+    "Visual Arts",
+    "Software Development",
+    "AI Filmmaking",
+    "VFX"
+  ],
+  "projects": [
+    {
+      "id": "chronicles-of-aethelgard-the-awakened",
+      "slug": "chronicles-of-aethelgard-the-awakened",
+      "title": "Chronicles of Aethelgard: The Awakened",
+      "description": "An epic cinematic fantasy trailer featuring AI character consistency, dramatic neural lighting, and generative worldbuilding.",
+      "category": "AI Filmmaking",
+      "year": 2026,
+      "featured": true,
+      "mediaType": "video",
+      "mediaUrl": "/media/videos/ai-filmmaking/chronicles-of-aethelgard.mp4",
+      "thumbnailUrl": "/media/videos/ai-filmmaking/chronicles-of-aethelgard-poster.webp",
+      "tools": [
+        "Midjourney v6",
+        "Runway Gen-3",
+        "ElevenLabs",
+        "Custom Lip-Sync"
+      ],
+      "objective": "Demonstrate character continuity across multi-scene dialogue and combat choreographies in a high-fantasy universe.",
+      "process": "Utilized character reference embedding with LemonPeel and OpenArt to preserve facial features, costumes, and lighting continuity between establishing shots and tight closeups.",
+      "results": "Over 50,000 views across creator communities and featured in independent AI film showcases.",
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Narrative Cinema",
+        "AI Filmmaking",
+        "Fantasy",
+        "Character Design"
+      ],
+      "aspectRatio": "16/9",
+      "originalFilename": "chronicles-of-aethelgard.mp4",
+      "originalRelativePath": "videos/ai-filmmaking/chronicles-of-aethelgard.mp4"
+    },
+    {
+      "id": "location-change-vfx",
+      "slug": "location-change-vfx",
+      "title": "Location Change VFX",
+      "description": "Cinematic exploration and creative technology work: Location Change VFX. Highlighting generative workflows and visual excellence.",
+      "category": "VFX",
+      "year": 2026,
+      "featured": true,
+      "mediaType": "video",
+      "mediaUrl": "/media/videos/vfx/Location Change VFX.mp4",
+      "thumbnailUrl": "/media/videos/vfx/Location Change VFX-poster.webp",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "VFX",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "16/9",
+      "originalFilename": "Location Change VFX.mp4",
+      "originalRelativePath": "videos/vfx/Location Change VFX.mp4"
+    },
+    {
+      "id": "open-art-vfx-2",
+      "slug": "open-art-vfx-2",
+      "title": "Open Art VFX 2",
+      "description": "Cinematic exploration and creative technology work: Open Art VFX 2. Highlighting generative workflows and visual excellence.",
+      "category": "VFX",
+      "year": 2026,
+      "featured": true,
+      "mediaType": "video",
+      "mediaUrl": "/media/videos/vfx/OPEN ART VFX 2.mp4",
+      "thumbnailUrl": "/media/videos/vfx/OPEN ART VFX 2-poster.webp",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "VFX",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "16/9",
+      "originalFilename": "OPEN ART VFX 2.mp4",
+      "originalRelativePath": "videos/vfx/OPEN ART VFX 2.mp4"
+    },
+    {
+      "id": "openart-vfx-3",
+      "slug": "openart-vfx-3",
+      "title": "OPENART VFX 3",
+      "description": "Cinematic exploration and creative technology work: OPENART VFX 3. Highlighting generative workflows and visual excellence.",
+      "category": "VFX",
+      "year": 2026,
+      "featured": true,
+      "mediaType": "video",
+      "mediaUrl": "/media/videos/vfx/OPENART VFX 3.mp4",
+      "thumbnailUrl": "/media/videos/vfx/OPENART VFX 3-poster.webp",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "VFX",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "16/9",
+      "originalFilename": "OPENART VFX 3.mp4",
+      "originalRelativePath": "videos/vfx/OPENART VFX 3.mp4"
+    },
+    {
+      "id": "openart-vfx-final",
+      "slug": "openart-vfx-final",
+      "title": "OPENART VFX Final",
+      "description": "Cinematic exploration and creative technology work: OPENART VFX Final. Highlighting generative workflows and visual excellence.",
+      "category": "VFX",
+      "year": 2026,
+      "featured": true,
+      "mediaType": "video",
+      "mediaUrl": "/media/videos/vfx/openart VFX final.mp4",
+      "thumbnailUrl": "/media/videos/vfx/openart VFX final-poster.webp",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "VFX",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "16/9",
+      "originalFilename": "openart VFX final.mp4",
+      "originalRelativePath": "videos/vfx/openart VFX final.mp4"
+    },
+    {
+      "id": "promptcraft-studio-ai-film-orchestration",
+      "slug": "promptcraft-studio-ai-film-orchestration",
+      "title": "PromptCraft Studio: AI Film Orchestration",
+      "description": "An open-source developer workspace for scripting, staging, and orchestrating multi-agent generative video workflows.",
+      "category": "Software Development",
+      "year": 2026,
+      "featured": true,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/projects/promptcraft-studio.png",
+      "thumbnailUrl": "/media/images/projects/promptcraft-studio.png",
+      "tools": [
+        "Next.js 15",
+        "TypeScript",
+        "Tailwind CSS",
+        "Google Gemini API",
+        "FastAPI"
+      ],
+      "objective": "Streamline generative video ideation by enabling shot-by-shot prompt chaining, seed management, and camera angle preservation.",
+      "process": "Architected modular Node/Python pipeline with real-time preview canvas and automated scene continuity scoring.",
+      "results": "Adopted by creative teams to reduce prompt iteration cycles by 65%.",
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Full-Stack",
+        "Next.js",
+        "AI Tooling",
+        "TypeScript"
+      ],
+      "githubUrl": "https://github.com/shanmukh-ai/promptcraft-studio",
+      "aspectRatio": "4/3",
+      "originalFilename": "promptcraft-studio.png",
+      "originalRelativePath": "images/projects/promptcraft-studio.png"
+    },
+    {
+      "id": "shanmukh-ai-film-makers-official-studio-emblem",
+      "slug": "shanmukh-ai-film-makers-official-studio-emblem",
+      "title": "Shanmukh AI Film Makers: Official Studio Emblem",
+      "description": "Official golden 3D brand emblem representing Shanmukh AI Film Makers, embodying cinematic ambition, craft precision, and modern creative technology.",
+      "category": "AI Filmmaking",
+      "year": 2026,
+      "featured": true,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/thumbnails/Shanmukh AI Film Makers Gold Emblem.png",
+      "thumbnailUrl": "/media/images/thumbnails/Shanmukh AI Film Makers Gold Emblem.png",
+      "tools": [
+        "Generative 3D Design",
+        "Gold Shader Rendering",
+        "Brand Identity",
+        "Shanmukh AI Film Makers"
+      ],
+      "objective": "Design a memorable, prestigious studio insignia combining cinematic filigree, regal lions, and golden metallic aesthetics.",
+      "process": "Explored multi-iteration 3D lighting passes with reflections, bevel depth, and fine typography integration.",
+      "results": "Selected as the official primary emblem for all film openings, watermarks, and studio collateral.",
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Brand Identity",
+        "Studio Emblem",
+        "3D Gold",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "1/1",
+      "originalFilename": "Shanmukh AI Film Makers Gold Emblem.png",
+      "originalRelativePath": "images/thumbnails/Shanmukh AI Film Makers Gold Emblem.png"
+    },
+    {
+      "id": "students-arguing-over-samosa",
+      "slug": "students-arguing-over-samosa",
+      "title": "Students Arguing Over Samosa",
+      "description": "A relatable, humorous slice-of-life sequence capturing college camaraderie, spirited debates, and expressive character acting generated entirely with AI filmmaking tools.",
+      "category": "AI Filmmaking",
+      "year": 2026,
+      "featured": true,
+      "mediaType": "video",
+      "mediaUrl": "/media/videos/ai-filmmaking/Students_arguing_over_samosa_20261018131505.mp4",
+      "thumbnailUrl": "/media/videos/ai-filmmaking/Students_arguing_over_samosa_20261018131505-poster.webp",
+      "tools": [
+        "AI Character Acting",
+        "Generative Cinema",
+        "Multi-Character Staging",
+        "Shanmukh AI Film Makers"
+      ],
+      "objective": "Explore expressive multi-character dynamics, conversational timing, and youthful comedic banter in a cinematic canteen scene.",
+      "process": "Coordinated character appearance consistency across contrasting perspectives, ensuring continuity in expressions, props, and canteen atmosphere.",
+      "results": "Highly engaging comedic rhythm with lifelike emotional reactions that resonated strongly with audience tests.",
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "AI Filmmaking",
+        "Comedy",
+        "Canteen Series",
+        "Character Acting",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "16/9",
+      "originalFilename": "Students_arguing_over_samosa_20261018131505.mp4",
+      "originalRelativePath": "videos/ai-filmmaking/Students_arguing_over_samosa_20261018131505.mp4"
+    },
+    {
+      "id": "the-canteen-secret-uncles-revelation",
+      "slug": "the-canteen-secret-uncles-revelation",
+      "title": "The Canteen Secret: Uncle's Revelation",
+      "description": "A dramatic narrative scene from Shanmukh AI Film Makers depicting an intense conversation in a college canteen, exploring character dialogue, tension, and realistic Indian setting consistency.",
+      "category": "AI Filmmaking",
+      "year": 2026,
+      "featured": true,
+      "mediaType": "video",
+      "mediaUrl": "/media/videos/ai-filmmaking/Uncle_revealing_secret_in_canteen_20261018131520.mp4",
+      "thumbnailUrl": "/media/videos/ai-filmmaking/Uncle_revealing_secret_in_canteen_20261018131520-poster.webp",
+      "tools": [
+        "AI Video Generation",
+        "Character Consistency",
+        "Lip-Sync & Voice Synthesis",
+        "Shanmukh AI Film Makers"
+      ],
+      "objective": "Achieve authentic expressive facial performances and atmospheric cinematic framing in a bustling canteen environment using generative AI workflows.",
+      "process": "Iterated scene prompts for regional environmental fidelity, natural dialogue delivery, and synchronized facial expressions with seamless lighting.",
+      "results": "Compelling narrative tension with natural lip-sync and believable dramatic character beats, showcasing practical generative filmmaking.",
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "AI Filmmaking",
+        "Cinematic Narrative",
+        "Character Drama",
+        "Indian Cinema",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "16/9",
+      "originalFilename": "Uncle_revealing_secret_in_canteen_20261018131520.mp4",
+      "originalRelativePath": "videos/ai-filmmaking/Uncle_revealing_secret_in_canteen_20261018131520.mp4"
+    },
+    {
+      "id": "banner",
+      "slug": "banner",
+      "title": "Banner",
+      "description": "Cinematic exploration and creative technology work: Banner. Highlighting generative workflows and visual excellence.",
+      "category": "Software Development",
+      "year": 2026,
+      "featured": false,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/projects/banner.png",
+      "thumbnailUrl": "/media/images/projects/banner.png",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Software Development",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "4/3",
+      "originalFilename": "banner.png",
+      "originalRelativePath": "images/projects/banner.png"
+    },
+    {
+      "id": "banner-clean",
+      "slug": "banner-clean",
+      "title": "Banner Clean",
+      "description": "Cinematic exploration and creative technology work: Banner Clean. Highlighting generative workflows and visual excellence.",
+      "category": "Software Development",
+      "year": 2026,
+      "featured": false,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/projects/banner_clean.jpg",
+      "thumbnailUrl": "/media/images/projects/banner_clean.jpg",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Software Development",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "4/3",
+      "originalFilename": "banner_clean.jpg",
+      "originalRelativePath": "images/projects/banner_clean.jpg"
+    },
+    {
+      "id": "fire-first",
+      "slug": "fire-first",
+      "title": "Fire First",
+      "description": "Cinematic exploration and creative technology work: Fire First. Highlighting generative workflows and visual excellence.",
+      "category": "Software Development",
+      "year": 2026,
+      "featured": false,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/projects/fire first.png",
+      "thumbnailUrl": "/media/images/projects/fire first.png",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Software Development",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "4/3",
+      "originalFilename": "fire first.png",
+      "originalRelativePath": "images/projects/fire first.png"
+    },
+    {
+      "id": "fire-last",
+      "slug": "fire-last",
+      "title": "Fire Last",
+      "description": "Cinematic exploration and creative technology work: Fire Last. Highlighting generative workflows and visual excellence.",
+      "category": "Software Development",
+      "year": 2026,
+      "featured": false,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/projects/fire last.png",
+      "thumbnailUrl": "/media/images/projects/fire last.png",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Software Development",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "4/3",
+      "originalFilename": "fire last.png",
+      "originalRelativePath": "images/projects/fire last.png"
+    },
+    {
+      "id": "firstframe",
+      "slug": "firstframe",
+      "title": "Firstframe",
+      "description": "Cinematic exploration and creative technology work: Firstframe. Highlighting generative workflows and visual excellence.",
+      "category": "Software Development",
+      "year": 2026,
+      "featured": false,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/projects/firstframe.jpeg",
+      "thumbnailUrl": "/media/images/projects/firstframe.jpeg",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Software Development",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "4/3",
+      "originalFilename": "firstframe.jpeg",
+      "originalRelativePath": "images/projects/firstframe.jpeg"
+    },
+    {
+      "id": "gun-and-generation",
+      "slug": "gun-and-generation",
+      "title": "Gun And Generation",
+      "description": "Cinematic exploration and creative technology work: Gun And Generation. Highlighting generative workflows and visual excellence.",
+      "category": "Software Development",
+      "year": 2026,
+      "featured": false,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/projects/gun and generation.png",
+      "thumbnailUrl": "/media/images/projects/gun and generation.png",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Software Development",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "4/3",
+      "originalFilename": "gun and generation.png",
+      "originalRelativePath": "images/projects/gun and generation.png"
+    },
+    {
+      "id": "gun-first",
+      "slug": "gun-first",
+      "title": "Gun First",
+      "description": "Cinematic exploration and creative technology work: Gun First. Highlighting generative workflows and visual excellence.",
+      "category": "Software Development",
+      "year": 2026,
+      "featured": false,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/projects/gun first.jpeg",
+      "thumbnailUrl": "/media/images/projects/gun first.jpeg",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Software Development",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "4/3",
+      "originalFilename": "gun first.jpeg",
+      "originalRelativePath": "images/projects/gun first.jpeg"
+    },
+    {
+      "id": "logo",
+      "slug": "logo",
+      "title": "Logo",
+      "description": "Cinematic exploration and creative technology work: Logo. Highlighting generative workflows and visual excellence.",
+      "category": "Visual Arts",
+      "year": 2026,
+      "featured": false,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/profile/logo.png",
+      "thumbnailUrl": "/media/images/profile/logo.png",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Visual Arts",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "4/3",
+      "originalFilename": "logo.png",
+      "originalRelativePath": "images/profile/logo.png"
+    },
+    {
+      "id": "sahara-first-frame",
+      "slug": "sahara-first-frame",
+      "title": "Sahara First Frame",
+      "description": "Cinematic exploration and creative technology work: Sahara First Frame. Highlighting generative workflows and visual excellence.",
+      "category": "Software Development",
+      "year": 2026,
+      "featured": false,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/projects/sahara first frame.jpeg",
+      "thumbnailUrl": "/media/images/projects/sahara first frame.jpeg",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Software Development",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "4/3",
+      "originalFilename": "sahara first frame.jpeg",
+      "originalRelativePath": "images/projects/sahara first frame.jpeg"
+    },
+    {
+      "id": "shanmukh-portrait",
+      "slug": "shanmukh-portrait",
+      "title": "Shanmukh Portrait",
+      "description": "Cinematic exploration and creative technology work: Shanmukh Portrait. Highlighting generative workflows and visual excellence.",
+      "category": "Visual Arts",
+      "year": 2026,
+      "featured": false,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/profile/shanmukh-portrait.webp",
+      "thumbnailUrl": "/media/images/profile/shanmukh-portrait.webp",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Visual Arts",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "4/3",
+      "originalFilename": "shanmukh-portrait.webp",
+      "originalRelativePath": "images/profile/shanmukh-portrait.webp"
+    },
+    {
+      "id": "sparkle",
+      "slug": "sparkle",
+      "title": "Sparkle",
+      "description": "Cinematic exploration and creative technology work: Sparkle. Highlighting generative workflows and visual excellence.",
+      "category": "Software Development",
+      "year": 2026,
+      "featured": false,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/projects/sparkle.png",
+      "thumbnailUrl": "/media/images/projects/sparkle.png",
+      "tools": [
+        "Generative AI",
+        "Cinematic Direction",
+        "Shanmukh AI Film Makers"
+      ],
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Software Development",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "4/3",
+      "originalFilename": "sparkle.png",
+      "originalRelativePath": "images/projects/sparkle.png"
+    },
+    {
+      "id": "the-last-samosa-cinematic-close-up",
+      "slug": "the-last-samosa-cinematic-close-up",
+      "title": "The Last Samosa: Cinematic Close-Up",
+      "description": "Dynamic visual shot emphasizing tension, micro-expressions, and slow-motion hand motion in a humorous canteen duel.",
+      "category": "AI Filmmaking",
+      "year": 2026,
+      "featured": false,
+      "mediaType": "video",
+      "mediaUrl": "/media/videos/ai-filmmaking/Man_reaching_for_samosa_20261018131459.mp4",
+      "thumbnailUrl": "/media/videos/ai-filmmaking/Man_reaching_for_samosa_20261018131459-poster.webp",
+      "tools": [
+        "High-Speed Motion",
+        "Depth of Field",
+        "Cinematic Framing",
+        "Shanmukh AI Film Makers"
+      ],
+      "objective": "Build dramatic tension in a mundane scenario through extreme close-ups, subtle character twitching, and heightened lighting.",
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "AI Filmmaking",
+        "Cinematic Close-Up",
+        "Visual Storytelling",
+        "Shanmukh AI Films"
+      ],
+      "aspectRatio": "16/9",
+      "originalFilename": "Man_reaching_for_samosa_20261018131459.mp4",
+      "originalRelativePath": "videos/ai-filmmaking/Man_reaching_for_samosa_20261018131459.mp4"
+    },
+    {
+      "id": "autonomous-vision-pipeline",
+      "slug": "autonomous-vision-pipeline",
+      "title": "Autonomous Vision Pipeline",
+      "description": "Computer vision framework utilizing edge-optimized neural models for real-time video classification, OCR, and scene segmentation.",
+      "category": "Software Development",
+      "year": 2025,
+      "featured": false,
+      "mediaType": "image",
+      "mediaUrl": "/media/images/projects/autonomous-vision-pipeline.webp",
+      "thumbnailUrl": "/media/images/projects/autonomous-vision-pipeline.webp",
+      "tools": [
+        "Python",
+        "OpenCV",
+        "Tesseract OCR",
+        "PyTorch",
+        "FastAPI"
+      ],
+      "objective": "Build automated video asset indexing system for creative libraries with multi-modal frame search.",
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "Computer Vision",
+        "Machine Learning",
+        "Automation",
+        "Python"
+      ],
+      "aspectRatio": "4/3",
+      "originalFilename": "autonomous-vision-pipeline.webp",
+      "originalRelativePath": "images/projects/autonomous-vision-pipeline.webp"
+    },
+    {
+      "id": "neural-flux-procedural-vfx",
+      "slug": "neural-flux-procedural-vfx",
+      "title": "Neural Flux Procedural VFX",
+      "description": "Generative visual effects experiment combining mathematical particle simulations with latent space diffusion transitions.",
+      "category": "VFX",
+      "year": 2025,
+      "featured": false,
+      "mediaType": "video",
+      "mediaUrl": "/media/videos/vfx/neural-flux-procedural.mp4",
+      "thumbnailUrl": "/media/videos/vfx/neural-flux-procedural-poster.webp",
+      "tools": [
+        "Three.js",
+        "TouchDesigner",
+        "Stable Diffusion XL",
+        "After Effects"
+      ],
+      "objective": "Bridge algorithmic 3D particle systems with deep learning texture synthesis in 60fps real-time visualization.",
+      "client": "Shanmukh AI Film Makers",
+      "tags": [
+        "VFX",
+        "Motion Graphics",
+        "Generative Art",
+        "Latent Space"
+      ],
+      "aspectRatio": "16/9",
+      "originalFilename": "neural-flux-procedural.mp4",
+      "originalRelativePath": "videos/vfx/neural-flux-procedural.mp4"
+    }
+  ]
+}
